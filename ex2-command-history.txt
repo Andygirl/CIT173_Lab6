@@ -1,0 +1,595 @@
+    1  sudo init 0
+    2  sudo
+    3  su root
+    4  toor
+    5  clear
+    6  su root
+    7  sudo ls
+    8  clear
+    9  ls -a
+   10  cd
+   11  ls
+   12  ls -a
+   13  cat .bashrc 
+   14  cd
+   15  ls
+   16  echo "(tput -T xterm setab 6)
+   17  clear
+   18  ls
+   19  clear
+   20  ls
+   21  ls -a
+   22  less .bashrc
+   23  celar
+   24  clear
+   25  cd
+   26  ls
+   27  ~/$
+   28  cd /
+   29  cd Downloads
+   30  clear
+   31  cd
+   32  ls
+   33  cd `
+   34  cd ~
+   35  cd
+   36  ls
+   37  cd Downloads/
+   38  ls
+   39  cd motd_ascii_art-master/
+   40  ls
+   41  mv bowsette_void ~
+   42  mv mr-robot_hackerman ~
+   43  mv lucas_spider ~
+   44  clear
+   45  cd
+   46  ls
+   47  ls -a
+   48  ls
+   49  clear
+   50  ls
+   51  nano ~/lucas_spider 
+   52  clear
+   53  nano
+   54  clear
+   55  nano ~/lucas_spider 
+   56  clear
+   57  cd
+   58  ls
+   59  ls -a
+   60  nano .bashrc 
+   61  nano ~/bowsette_void 
+   62  clear
+   63  nano .bashrc 
+   64  clear
+   65  nano .bashrc
+   66  clear
+   67  nano .bashrc
+   68  ls
+   69  clear
+   70  close
+   71  clear
+   72  cd root
+   73  cd /root
+   74  sudo cd /root
+   75  clear
+   76  cd
+   77  clear
+   78  cd
+   79  ls
+   80  mkdir CIT173_lab4
+   81  ls
+   82  ls /dev
+   83  clear
+   84  cd CIT173_lab4/
+   85  ls
+   86  clear
+   87  ls /dev > my-dev-nodes.txt
+   88  ls
+   89  nano my-dev-nodes.txt 
+   90  cat my-dev-nodes.txt 
+   91  clear
+   92  cat my-dev-nodes.txt ~/dev/full
+   93  clear
+   94  /dev/full
+   95  cat /dev/full
+   96  clear
+   97  head 1024 ?dev/random
+   98  head 1024 /dev/random
+   99  clear
+  100  man head
+  101  man -c 1024 
+  102  head -c 1024
+  103  clear
+  104  head -c 1024 /dev/random >random-data.txt
+  105  ls
+  106  cat random-data.txt 
+  107  clear
+  108  man ls
+  109  ls kernal
+  110  lsmod
+  111  clear
+  112  lsmod > my-modules-1.txt
+  113  clear
+  114  ls
+  115  clear
+  116  nfs
+  117  lsmod nfs
+  118  man lsmod
+  119  sed 's/nfs/g' lsmod
+  120  clear
+  121  lsmod
+  122  clear
+  123  apt-get nfs
+  124  clear
+  125  man apt
+  126  man apt-get
+  127  dpkg -s mfs
+  128  clear
+  129  dpkg -s mfs
+  130  dpkg --info mfs
+  131  dpkg --info nfs
+  132  dpkg --contents nfs
+  133  dpkg-query nfs
+  134  dpkg-query --help
+  135  clear
+  136  apt show nfs
+  137  apt-get show nfs
+  138  apt-get --help
+  139  apt-show
+  140  celar
+  141  clear
+  142  apt-cache show nfs
+  143  apt-cache
+  144  clear
+  145  apt-get nfs
+  146  apt-get install nfs
+  147  clear
+  148  cat my-dev-nodes.txt > /dev/full
+  149  modinfo nfs
+  150  clear
+  151  modinfo nfs > my-nfs-info.txt
+  152  clear
+  153  insmod nfs
+  154  modinf nfs
+  155  modinfo nfs
+  156  clear
+  157  insmod /lib/modules/4.18.16-300.fc29.x86_64/kernel/fs/nfs/nfs.ko.xz
+  158  sudo insmod /lib/modules/4.18.16-300.fc29.x86_64/kernel/fs/nfs/nfs.ko.xz
+  159  sudo modprobe nfs.ko.xz
+  160  sudo insmod /kernel/fs/nfs/nfs.ko.xz
+  161  sudo insmod nfs.ko.xz
+  162  sudo insmod /lib/modules/4.18.16-300.fc29.x86_64/kernel/fs/nfs/nfs.ko.xz
+  163  clear
+  164  ls
+  165  cd
+  166  clear
+  167  sudo insmod /lib/modules/4.18.16-300.fc29.x86_64/kernel/fs/nfs/nfs.ko.xz
+  168  modinfo nfs
+  169  clear
+  170  ls
+  171  cd CIT173_lab4/
+  172  clear
+  173  ls
+  174  .bashrqc
+  175  .bashrc
+  176  clear
+  177  ls
+  178  cd CIT173_lab4/
+  179  clear
+  180  ls -al
+  181  ls
+  182  ls -l
+  183  ls -a
+  184  clear
+  185  ls -a
+  186  cd
+  187  ls -a
+  188  ..
+  189  clear
+  190  ls
+  191  cd C
+  192  cd CIT173_lab4/
+  193  .
+  194  ..
+  195  clear
+  196  cd ..
+  197  cd .
+  198  cd ..
+  199  cd 
+  200  clear
+  201  cd CIT173_lab4/
+  202  lsmod
+  203  clear
+  204  ls
+  205  sudo modprobe nfs
+  206  clear
+  207  lsmod
+  208  clear
+  209  lsmod > my-modules-2.txt
+  210  ls
+  211  clear
+  212  rmod nfs
+  213  rmmod
+  214  rmmod nfs
+  215  sudo rmmod nfs
+  216  clear
+  217  lsmod > my-modules-3.txt
+  218  clear
+  219  sudo init 0
+  220  clear
+  221  fdisk
+  222  sudo gdisk
+  223  clear
+  224  ls
+  225  cd ..
+  226  ls
+  227  cd
+  228  cd ..
+  229  ls
+  230  cd ..
+  231  ls
+  232  cd media
+  233  ls
+  234  cd ..
+  235  ls
+  236  cd dev
+  237  ls
+  238  cd sbd
+  239  clear
+  240  cd
+  241  clear
+  242  sudo fdisk -l
+  243  clear
+  244  sudo fdisk /dev/sdb
+  245  clear
+  246  sudo fdisk /dev/sdb
+  247  sudo -i
+  248  sudo fdisk /dev/sdb
+  249  sudo gdisk /dev/sdb
+  250  clear
+  251  sudo gdisk
+  252  sudo gdisk /dev/sdb
+  253  clear
+  254  sudo parted
+  255  clear
+  256  sudo parted dev/sdb
+  257  sudo parted /dev/sdb
+  258  clear
+  259  sudo fdisk /dev/sdb
+  260  clear
+  261  sudo fdisk
+  262  sudo fdisk /dev/sdb
+  263  cd /dev
+  264  ls
+  265  ls -l
+  266  clea
+  267  clear
+  268  cd 
+  269  cd CIT173_lab4/
+  270  ls /dev
+  271  clear
+  272  cd /dev -l > my-new-dev-nodes.txt
+  273  cd /dev > my-new-dev-nodes.txt
+  274  clear
+  275  cd
+  276  cd dev
+  277  cd /dev
+  278  ls
+  279  clear
+  280  cd
+  281  cd /dev
+  282  ls
+  283  ls -l
+  284  mkfs /dev/sdb1 -t ext4
+  285  sudo mkfs /dev/sdb1 -t ext4
+  286  sudo mkfs /dev/sdb2 -t ext4
+  287  cd
+  288  sudo mkdir /dev/sdb1 /mnt/data
+  289  sudo mkdir /mnt/data /dev/sdb1
+  290  /mnt
+  291  cd /mnt
+  292  ls
+  293  cd data/
+  294  ls
+  295  cd ..
+  296  ls
+  297  rmdir data
+  298  sudo rmdir data
+  299  clear
+  300  ls
+  301  de
+  302  cd
+  303  clear
+  304  sudo mkdir /mnt/data
+  305  sudo mount /dev/sdb1 /mnt/data
+  306  sudo mkdir /mnt/backup
+  307  sudo mount /dev/sdb2 /mnt/backup
+  308  mount
+  309  clear
+  310  cd CIT173_lab4/
+  311  mount > my-disk-usage.txt
+  312  cat my-disk-usage.txt 
+  313  clear
+  314  unmount
+  315  clear
+  316  df
+  317  df > my.mounts
+  318  ls
+  319  rm my.mounts 
+  320  ls
+  321  clear
+  322  df >my-mounts.txt
+  323  clear
+  324  sudo unmount /mnt/data
+  325  sudo umount /mnt/data
+  326  sudo umount /mnt/backup 
+  327  sudo dd if=/dev/sdv of=~/CIT173_lab4/gpt.bin bs=512 count=34
+  328  sudo dd if=/dev/sdb of=~/CIT173_lab4/gpt.bin bs=512 count=34
+  329  clear
+  330  git init
+  331  git remote add origin https://github.com/vr3zCIT173_Lab4.git
+  332  git add --all
+  333  git commit -m "Lab Assignment 4"
+  334  git push origin master
+  335  git remote add origin https://github.com/vr3zzCIT173_Lab4.git
+  336  git remote change origin https://github.com/vr3zz/CIT173_Lab4.git
+  337  git remote remove origin https://github.com/vr3zCIT173_Lab4.git
+  338  git remote remove https://github.com/vr3zCIT173_Lab4.git
+  339  git remote add origin https://github.com/vr3zz/CIT173_Lab4.git
+  340  git remote remove https://github.com/vr3zCIT173_Lab4.git
+  341  git init
+  342  git remote add origin https://github.com/vr3zz/CIT173_Lab4.git
+  343  git remote remove origin
+  344  git remote add origin https://github.com/vr3zz/CIT173_Lab4.git
+  345  git add --all
+  346  clear
+  347  git commit -m "Lab 4
+  348  git commit -m "Lab 4"
+  349  git push origin master
+  350  cd
+  351  clear
+  352  ls
+  353  nano /bashrc
+  354  nano .bashrc
+  355  clear
+  356  uit
+  357  quit
+  358  nano .bashrc
+  359  ls
+  360  nano .bashrc
+  361  clear
+  362  close
+  363  clear
+  364  powerdown
+  365  poweroof
+  366  poweroff
+  367  clear
+  368  macchanger
+  369  apt-get tor
+  370  apt-get search tor
+  371  apt-get 
+  372  sudo appt-get install tor
+  373  sudo apt-get install tor
+  374  clear
+  375  cd
+  376  cd tor-browser_LANG
+  377  tar -xcJf tor-browser-linux64-8.0.5_LANG.tar.xz
+  378  tar tor-browser-linux64-8.0.5_LANG.tar.xz
+  379  cd
+  380  ls
+  381  cd Downloads/
+  382  ls
+  383  clear
+  384  ls
+  385  tar -xvJf tor-browser-linux64-8.0.5_en-US.tar.xz 
+  386  cd tor-browser_en-US/
+  387  mkuser
+  388  adduser
+  389  adduser vr3zz
+  390  sudo adduser toor
+  391  login toor
+  392  clear
+  393  ./start-tor-browser.desktop 
+  394  sudo macchanger
+  395  ifconfig
+  396  ifconfig ens33 down
+  397  sudo ifconfig ens33 down
+  398  sudo macchanger 
+  399  sudo macchanger -b ens33
+  400  sudo macchanger -r ens33
+  401  sudo macchanger -h
+  402  sudo macchanger -b ens33
+  403  sudo macchanger -A ens33
+  404  sudo macchanger -A ens3
+  405  clear
+  406  sudo ifconfig
+  407  sudo ifconfig up
+  408  sudo ifconfig ens33 up
+  409  sudo ifconfig
+  410  sudo macchanger ens33
+  411  clear
+  412  sudo macchanger -p ens33
+  413  sudo ifconfig
+  414  sudo ifconfig ens33 up
+  415  transmission
+  416  sudo apt-get install transmission
+  417  apt-get install -y bittorrent
+  418  sudo apt-get install -y bittorrent
+  419  sudo apt-get install bittorrent
+  420  sudo apt-get install -y bittorrent
+  421  cd
+  422  claer
+  423  clear
+  424  cd
+  425  clear
+  426  sudo mkdir CIT173_Lab5
+  427  clear
+  428  ls
+  429  clear
+  430  sysfs /etc/fstab
+  431  clear
+  432  ls
+  433  cat /etc/fstab 
+  434  clear
+  435  nano /etc/fstab 
+  436  clear
+  437  df
+  438  clear
+  439  ls -all
+  440  clear
+  441  ls -al
+  442  clear
+  443  mspart
+  444  part
+  445  spart
+  446  clear
+  447  gdisk
+  448  gdisk /etc/sdb
+  449  gdisk /dev/sdb
+  450  sudogdisk /dev/sdb
+  451  sudo gdisk /dev/sdb
+  452  clear
+  453  nano /etc/fstab 
+  454  clear
+  455  sudo vi /etc/fstab 
+  456  clear
+  457  sudo nano /etc/fstab 
+  458  ls
+  459  sudo nano /etc/fstab
+  460  reboot
+  461  mount
+  462  mount > ~/CIT173_Lab5/my-mounts.txt
+  463  poweroff
+  464  cat ~/CIT173_Lab5/my-fstab.txt
+  465  sudo nano /etc/fstab
+  466  mount > ~/CIT173_Lab5/my-mounts.txt
+  467  sudo mount > ~/CIT173_my-mounts.txt
+  468  cp /etc/fstab ~/CIT173_Lab5/my-fstab.txt
+  469  sudo cp /etc/fstab ~/CIT173_Lab5/my-fstab.txt
+  470  dd if=/dev/random of=/mnt/data/data_file1.dat bs=1 count=1k
+  471  sudo dd if=/dev/random of=/mnt/data/data_file1.dat bs=1 count=1k
+  472  sudo dd if=/dev/random of=/mnt/backup/backup_file2.dat bs=1 count=1k
+  473  sudo dd if=/dev/random of=/mnt/data/data_file2.dat bs=1 count=1k
+  474  sudo dd if=/dev/random of=/mnt/backup/backup_file1.dat bs=1 count=1k
+  475  ls -al /mnt/backup/
+  476  ls -al /mnt/data/
+  477  cp /mnt/*/*.dat ~/CIT173_Lab5/
+  478  sudo cp /mnt/*/*.dat ~/CIT173_Lab5/
+  479  ls ~/CIT173_Lab5/
+  480  mount > ~/CIT173_Lab5/my-mounts.txt
+  481  sudo mount > ~/CIT173_Lab5/my-mounts.txt
+  482  df
+  483  df > ~/CIT173_Lab5/my-disk-usage.txt
+  484  sudo df > ~/CIT173_Lab5/my-disk-usage.txt
+  485  ls -al ~/CIT173_Lab5/
+  486  ls -al ~
+  487  sudo chown vrezz ~/CIT173_Lab5/
+  488  ls -al ~
+  489  sudo chown vrezz:vrezz ~/CIT173_Lab5/
+  490  ls -al ~
+  491  df > ~/CIT173_Lab5/my-disk-usage.txt
+  492  ls /proc
+  493  uname
+  494  ls /proc
+  495  ls /version
+  496  cat /version
+  497  cat /proc/version
+  498  cat /proc/version > ~/CIT173_Lab5/my-procfs.txt
+  499  cat /proc/cpuinfo >> ~/CIT173_Lab5/my-procfs.txt
+  500  cat /proc/meminfo >> ~/CIT173_Lab5/my-procfs.txt
+  501  ps
+  502  cat /proc/2103
+  503  cat /proc/loadavg >> ~/CIT173_Lab5/my-procfs.txt
+  504  ps aux
+  505  cat /proc/1370/ | awk '{print $1}'/status >> ~/CIT173_Lab5/my-procfs.txt 
+  506  cat /proc
+  507  ls /proc
+  508  cat uptime >> ~/CIT173_Lab5/my-procfs.txt 
+  509  cat /proc/uptime >> ~/CIT173_Lab5/my-procfs.txt 
+  510  cat /proc/fb >> ~/CIT173_Lab5/my-procfs.txt 
+  511  cat /proc/1370/limits >> ~/CIT173_Lab5/my-procfs.txt 
+  512  sudo -i
+  513  history > ~/CIT173_Lab5/my-command-history.txt
+  514  cd ~/CIT173_Lab5/
+  515  ls -al
+  516  sudo nano turn-on-capslock-led.txt 
+  517  history > ~/CIT173_Lab5/my-command-history.txt
+  518  cd ~/CIT173_Lab5
+  519  git init
+  520  git remote add origin https://github.com/Andygirl/CIT173_Lab5.git
+  521  git add --all
+  522  git commit -m "Lab assignment 5"
+  523  git push origin master
+  524  cd ..
+  525  ls -al
+  526  ls
+  527  ls clear
+  528  clear
+  529  sudo groupadd actors
+  530  sudo groupadd directors
+  531  sudo groupadd producers
+  532  mkdir
+  533  q
+  534  mkdir CIT173 Lab6
+  535  mkdir CIT173_Lab6
+  536  rm CIT173 Lab6
+  537  sudo useradd -m mhamill
+  538  sudo passwd mhamill luke
+  539  sudo passwd mhamill
+  540  sudo usermod -c"Mark Hamill" mhamill
+  541  sudo usermod -a -G actors mhamill
+  542  sudo usermod -c "Mark Hamill" mhamill
+  543  sudo useradd -m hford
+  544  sudo passwd hford
+  545  sudo usermod -c "Harrison Ford" hford
+  546  sudo usermod -a -G actors hford
+  547  sudo useradd -m cfisher
+  548  sudo passwd cfisher
+  549  sudo usermod -a -G actors cfisher
+  550  sudo usermod -c "Carrie Fisher" cfisher
+  551  sudo useradd -m glucas
+  552  sudo passwd glucas
+  553  sudo usermod -c "George Lucas" glucas
+  554  sudo usermod -a -G directors glucas
+  555  sudo usermod -a -G producers glucas
+  556  sudo useradd -m gkurtz
+  557  sudo passwd gkurtz
+  558  sudo usermod -a -G producers gkurtz
+  559  sudo usermod -c "Gary Kurtz" gkurtz
+  560  cp /etc/passwd ~/CIT173_Lab6
+  561  cp /etc/group ~/CIT173_Lab6
+  562  less /etc/group
+  563  history > ~/CIT173_Lab6/ex1-command-history.txt
+  564  wget https://github.com/RenoTechnologyAcademy/CIT173_Lab6_Files/archive/master.tar.gz
+  565  tar -xvzf master.tar.gz
+  566  ls
+  567  sudo mkdir /var/StarWars
+  568  ls
+  569  ls -l /var/StarWars
+  570  ls -al /var/StarWars
+  571  sudo chmod a+rwx /var/StarWars/
+  572  sudo mkdir /var/StarWars/finance
+  573  sudo mkdir /var/StarWars/directing
+  574  sudo mkdir /var/StarWars/creative
+  575  mv CIT173_Lab6_Files-master/star-wars-budget.txt /var/StarWars/finance
+  576  sudo chmod 777 *
+  577  mv CIT173_Lab6_Files-master/star-wars-budget.txt /var/StarWars/finance
+  578  cd /var/StarWars/
+  579  sudo chmod 777 *
+  580  cd ~
+  581  ls -al
+  582  mv CIT173_Lab6_Files-master/star-wars-budget.txt /var/StarWars/finance
+  583  mv CIT173_Lab6_Files-master/star-wars-journal.txt /var/StarWars/directing
+  584  mv CIT173_Lab6_Files-master/star-wars-script.txt /var/StarWars/creative
+  585  cd /var/StarWars
+  586  ls
+  587  sudo chown -R gkurtz:producers /finance/
+  588  sudo chown -R gkurtz:producers /finance
+  589  sudo chown -R gkurtz:producers finance/
+  590  ls -al
+  591* 
+  592  ls -al
+  593  sudo chmod -R 775 directing/
+  594  sudo chmod -R 750 creative/
+  595  history > ~/CIT173_Lab6/ex2-command-history.txt
